@@ -5,7 +5,7 @@ Wikipedia-Artikel [Österreichische Literatur](https://de.wikipedia.org/wiki/%C3
 ## Wikipedia/Mediawiki Exportformat als RDF:
 
 Dokumentation des Wikipedia-Exportformats: (<https://www.mediawiki.org/wiki/Help:Export#Export_format)
-XML-Elemente und Attribute sind im Datensatz gemappt auf die nicht dereferenzierbare Base-URI: https://www.mediawiki.org/wiki/Help:Export/Export_format#
+XML-Elemente und Attribute sind im Datensatz gemappt auf die nicht dereferenzierbare Base-URI: https://www.mediawiki.org/wiki/Help:Export#Export_format
 
 ``PREFIX we: <https://www.mediawiki.org/wiki/Help:Export/Export_format#>``
 
@@ -28,8 +28,8 @@ oder
 
 RDF zum Ausgabeformat kann hier abgerufen werden:
 
-Endpoint: http://digitalhumanities.germ.univie.ac.at/litatwiki/revisions/query
-[SPARQL Query Interface](https://ingoboerner.github.io/litatwiki/sparql.html)
+* Endpoint: http://digitalhumanities.germ.univie.ac.at/litatwiki/revisions/query
+* [SPARQL Query Interface](https://ingoboerner.github.io/litatwiki/sparql.html)
 
 Andere relevante Endpoints:
 
