@@ -60,7 +60,7 @@ SELECT ?revision ?timestamp ?userName ?ip ?bytes ?links  WHERE {
 ORDER BY DESC(?timestamp)
 ```
 
-### Alternative Identifier zu DBPedia-Resource und Wikidata ausgehen von `we:linksTo`
+### Alternative Identifier zu DBPedia-Resource und Wikidata ausgehend von `we:linksTo`
 
 
 #### DBPedia-IDs für die `we:linksTo` verlinkten Artikelseiten, hier für den letzten Edit:
